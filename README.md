@@ -1,12 +1,12 @@
 ### Comandos do projeto
 
-    Comando para criar o projeto:
+* Comando para criar o projeto:
 
     ````
         npx create-next-app@latest
     ````
 
-    Comando para instalar o prisma:
+* Comando para instalar o prisma:
 
     ````
         npm install prisma --save-dev
@@ -16,19 +16,19 @@
         npm i prisma --save-dev
     ````
 
-    Comando para inicializar o prisma:
+* Comando para inicializar o prisma:
 
     ````
         npx prisma init
     ````
 
-    Comando para fazer uma migration prisma:
+* Comando para fazer uma migration prisma:
 
     ````
         npx prisma migrate dev
     ````
 
-    Comando para rodar o prisma:
+* Comando para rodar o prisma:
 
     ````
         npm run dev

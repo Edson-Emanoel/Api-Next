@@ -1,4 +1,4 @@
-### Comandos do projeto
+## Comandos do projeto
 
 * Comando para criar o projeto:
 
@@ -11,7 +11,7 @@ npx create-next-app@latest
 ````
 npm install prisma --save-dev
 
-    ou
+          ou
 
 npm i prisma --save-dev
 ````
@@ -34,7 +34,7 @@ npx prisma migrate dev
 npm run dev
 ````
 
-#### Link do vídeo
+## Link do vídeo
 ````
 https://www.youtube.com/watch?v=QP173kTaXhY
 ````
